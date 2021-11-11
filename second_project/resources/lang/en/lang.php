@@ -1,0 +1,11 @@
+<?php
+return[
+    'DASHBOARD'=>'Dashboard',
+    'MAINPAGE'=>'Main',
+    'POSTSPAGE'=>'Posts',
+    'USERSPAGE'=>'Users',
+    'CATEGORIESPAGE'=>'Categories',
+    'COMMENTSPAGE'=>'Comments',
+    'LANGUAGE'=>'Languages',
+    'SHOW'=>'SHOW'
+];
